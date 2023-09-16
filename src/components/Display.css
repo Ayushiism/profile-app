@@ -1,0 +1,15 @@
+.display{
+    border: 2px rgb(92, 91, 91) solid;
+    width: 350px;
+    height: 500px;
+    text-align: left;
+    padding-left: 10px;
+}
+.img{
+    margin-top: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
